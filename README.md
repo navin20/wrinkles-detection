@@ -31,7 +31,7 @@
 
 
 ### 2. cnn with detection box and image tensor and labelling tools
-#### classification part:
+#### a. classification part without detection boxes:
 
 
 
