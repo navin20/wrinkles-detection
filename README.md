@@ -31,6 +31,18 @@
 
 
 ### 2. cnn with detection box and image tensor and labelling tools
+#### classification part:
+
+
+
+
+<img src = "screenshots\nowrinkles.JPG">
+
+
+
+
+
+
 
 
 
