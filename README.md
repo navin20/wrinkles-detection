@@ -136,6 +136,19 @@
 
 
 
+# For  the classificiation coding refer to my another repository navin20/image-classification-using-keras for the code and just modify it according to the folder
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
