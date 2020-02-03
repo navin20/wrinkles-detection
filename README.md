@@ -136,8 +136,11 @@
 
 
 
-# For  the classificiation coding refer to my another repository  <href = "https://github.com/navin20/Image-Classification-Using-Keras">
-# for the code and just modify it according to the folder
+# For  the wrinkle classificiation coding refer to my another repository -> "https://github.com/navin20/Image-Classification-Using-Keras"
+
+
+# just modify the code according to the folder name like wrinkles or non wrinkles and train it and test 
+
 
 
 
