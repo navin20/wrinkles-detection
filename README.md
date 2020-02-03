@@ -136,7 +136,7 @@
 
 
 
-# For  the classificiation coding refer to my another repository  <href = "https://github.com/navin20/Image-Classification-Using-Keras"
+# For  the classificiation coding refer to my another repository  <h ref = "https://github.com/navin20/Image-Classification-Using-Keras"
 # for the code and just modify it according to the folder
 
 
