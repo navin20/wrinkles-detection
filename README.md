@@ -9,13 +9,13 @@
 
 
 
-# Our aim of this project is to basically help the health care to detect wrinkles of old people with the help of computer vision.
+# The aim of this project is to basically help the health care to detect wrinkles of old people with the help of computer vision.
 
 
 <img src = "screenshots/1.jpg">
 
 
-# we are currently researching the ways to use basic image processing deep learning method or tensorflow api to help in detecting wrinkles.
+# I am currently researching the ways to use basic image processing deep learning method or tensorflow api to help in detecting wrinkles.
 
 
 
@@ -93,31 +93,12 @@
 
 # Done by:
 
-## Navin:
+## ME:
 
 
 
 
 <img src = "screenshots\navin.jpg">
-
-
-
-
-## Winner:
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Jiadong:
 
 
 
